@@ -1,0 +1,98 @@
+    /*--------------------------------------------------------------
+    General
+    --------------------------------------------------------------*/
+    <style > 
+
+    p {
+        font-family: 'Comic Sans MS';   
+    }
+
+    #header {
+        background-image: url(https://images2.alphacoders.com/480/thumb-1920-480530.png);
+        text-align: center;
+        text-shadow: 3px 3px #FFFFFF;
+        color: #B22222;
+        font-family: 'courier New';
+        font-size: 40px;
+        background-position: center center;
+        letter-spacing: 1px;
+        padding: 10%;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        top: 0;
+        border: 0;
+    }
+
+    summary {
+        
+        text-align: justify;
+        letter-spacing: 1px;
+        padding: 5%;
+        letter-spacing: 1px;
+    }
+
+    #jar-preamble {
+        background: #000000;
+        text-align: justify;
+        letter-spacing: 1px;
+        padding: 5%;
+        color: #ffffff;
+    }
+
+    .explanation {
+        text-align: justify;
+        letter-spacing: 1px;
+        padding: 5%;
+        letter-spacing: 1px;
+    }
+
+    #jar-participation {
+        background: #000000;
+        text-align: justify;
+        letter-spacing: 1px;
+        padding: 5%;
+        color: #ffffff;
+    }
+
+    #jar-benefits {
+        text-align: justify;
+        letter-spacing: 1px;
+        padding: 5%;
+    }
+
+    #jar-requirements {
+        background: #000000;
+        text-align: justify;
+        letter-spacing: 1px;
+        padding: 5%;
+        color: #ffffff;
+    }
+
+    #jar-footer {
+        background: #32CD32;
+        padding: 10px;
+        text-align: center;
+        letter-spacing: 1px;
+        font-size: 40px text-decoration: none;
+    }
+
+    #jar-archives {
+        letter-spacing: 1px;
+        float: left;
+        padding: 60px;
+        text-decoration: none;
+    }
+
+    #jar-selection {
+        float: left;
+        padding: 60px;
+        text-decoration: none;
+    }
+
+    #jar-resources {
+        float: left;
+        padding: 60px;
+        text-decoration: none;
+    }
+
+    </style >
